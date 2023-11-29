@@ -1,0 +1,5 @@
+vscode
+intellij
+pycharm
+spyder
+code
